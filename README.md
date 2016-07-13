@@ -1,10 +1,17 @@
+# Ruby on Rails Tutorial: first application 
+
+This is the first application for
+[ *ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
 This pattern splits the view (also called the presentation) into "dumb"
-templates that are primarily responsible for inserting pre-built data in between
+templates that are primarily responsible for inserting pre-built data in betweenHTML tags. The model contains the "smart" domain objects (such as Account,
 HTML tags. The model contains the "smart" domain objects (such as Account,
 Product, Person, Post) that holds all the business logic and knows how to
 persist themselves to a database. The controller handles the incoming requests
